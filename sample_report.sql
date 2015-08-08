@@ -1,7 +1,7 @@
 /*************************************************
  *************** STORED PROCEDURES ***************
  *************************************************/
-
+--Hola Soy Franquito
 CREATE OR ALTER PROCEDURE [dbo].[WriteLNToFile]
 	@FilePath	VARCHAR[4000],
 	@Text		VARCHAR[4000]
